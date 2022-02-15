@@ -29,7 +29,7 @@
   
 <strong><h3>⚙️ Skills:</h3></strong> 
 </p>  
-  <a href="https://github.com/davimateus1">
+  <a href="https://github.com/joovitor12">
   <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -41,7 +41,7 @@
 <strong><h3>📚 Tecnologias que pretendo me aprofundar/melhorar:</h3></strong> 
 </p>  
  <div align="">
-  <a href="https://github.com/davimateus1">
+  <a href="https://github.com/joovitor12">
   <img align="center" alt="Springboot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Mais java!" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
