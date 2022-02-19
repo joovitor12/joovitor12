@@ -2,7 +2,6 @@
 
 <div>
 <h3 align="center">Olá, bem vindo(a) ao meu Github!</h3>
-<br>
 <hr>
 <p>
 • Ciência da Computação - UNICAP, 5/8.
