@@ -4,7 +4,7 @@
 <h3 align="center">Olá, bem vindo(a) ao meu Github!</h3>
 <hr>
 <p>
-• Ciência da Computação - UNICAP, 6/8.
+• Ciência da Computação - UNICAP, 7/8.
 </p>
 <p> 
 • Recife, Pernambuco, Brasil.
