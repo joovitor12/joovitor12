@@ -50,18 +50,7 @@
   </div>
 </div>
 
-<hr>  
 
-<a href="https://github.com/joovitor12">
-<div style="display: inline_block" align="center">
-  <h3 align="center"><strong>Minhas estatísticas</strong></h3>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=joovitor12&show_icons=true&theme=github_dark"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joovitor12&show_icons=true&theme=github_dark"/>
-
-
-  
-</div>
-  
 <hr>  
   
 <div align="center">
