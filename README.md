@@ -4,7 +4,7 @@
 <h3 align="center">Olá, bem vindo(a) ao meu Github!</h3>
 <hr>
 <p>
-• Ciência da Computação - UNICAP, 8/8.
+• Graduado em Ciência da Computação - UNICAP.
 </p>
 <p> 
 • Recife, Pernambuco, Brasil.
